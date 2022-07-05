@@ -10,6 +10,7 @@
     "postinstall": "husky install"
   },
   "dependencies": {
+    "axios": "^0.27.2",
     "husky": "^8.0.1",
     "next": "12.2.0",
     "react": "18.2.0",
